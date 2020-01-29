@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MQTT_App</string>
+    <string name="hue">Hue</string>
+    <string name="brightness">Brightness</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="set">Set Configurations</string>
+    <string name="hue_">Hue:</string>
+    <string name="brightness_">Brightness:</string>
+    <string name="saturation_">Saturation:</string>
+    <string name="connected_to">Connected to: Lamp &#160;</string>
+    <string name="LOG" />
+    <string name="invalid_lamp">Lamp out of reach, please choose another</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="finding_beacons">Finding Beacons</string>
+    <string name="lamp_status">Lamp Status</string>
+    <string name="available_lamps">Available Lamps</string>
+    <string name="get_status">Get Status</string>
+    <string name="lamp_configurations">Lamp Configurations</string>
+    <string name="configure_all_lamps">Configure all lamps</string>
+</resources>
